@@ -1,4 +1,7 @@
 # WebbElin
 Something new.
-## Subheader
-Some more text. Even more. Why is this not working?
+
+## Things that don't work
+- ls -la not working
+- Can't get tabbing to work (branch new-feature)
+- Have to write password when pushing.
